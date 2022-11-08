@@ -1,4 +1,3 @@
-// Function 12 clock 12 hour
 function clockTime12hour() {
     // creating the clock variables
     let date = new Date();
@@ -34,7 +33,6 @@ function clockTime12hour() {
     });
 }
 
-// Function 24 clock hour
 function clockTime24hour() {
     // creating the clock variables
     let date = new Date();
